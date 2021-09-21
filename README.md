@@ -1,4 +1,5 @@
 This demo shows the procedure to use the BGT60LTR11AIP  shield as a switch that can toggle between “ON” and “OFF” states depending on the gesture.
+
 The applications range from: 
 •	contactless soap dispenser
 •	elevator buttons
