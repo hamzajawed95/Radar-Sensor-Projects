@@ -1,2 +1,1 @@
-The demo shows using a BGT60LTR11AIP shield as a level controller which can be used to adjust or control the level of volume on a computer
-In this demo a RGB led strip is used to indicate the level that is being controlled.
+In this demo, the radar detects the presence of a target and lights up a lamp using the relay, the relay can be connected to the mains voltage and can be used to run lamps or other appliances.
