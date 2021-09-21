@@ -1,2 +1,2 @@
 
-Demos for Infineon's 60 GHz Radar shield "BGT60LTR11AIP" using Arduino platform and Python.
+Demos for Infineon's 60 GHz Radar sensor "BGT60LTR11AIP" using Arduino platform and Python.
