@@ -4,4 +4,5 @@ The applications range from:
 •	elevator buttons
 •	pedestrian street crossing button
 •	subway door opener
+
 In this demo a servo motor was attached to the Arduino which will act as an analog for motor that is placed in automatic doors.
