@@ -1,7 +1,5 @@
 /*!
  * \name        directionDetection
- * \author      Infineon Technologies AG
- * \copyright   2021 Infineon Technologies AG
  * \brief       This example detects the direction of motion of an object
  * \details     This example demonstrates how to detect the direction of a moving object while the
  *              BGT60LTR11AIP shield is connected to Arduino compatible boards.
@@ -34,7 +32,6 @@
  *                       OFF      No target detected
  *              ---------------------------------------------
  *
- * SPDX-License-Identifier: MIT
  */
 
 #include <Arduino.h>
