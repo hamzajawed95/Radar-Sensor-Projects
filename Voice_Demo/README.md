@@ -1,2 +1,5 @@
-The demo shows using a BGT60LTR11AIP shield as a level controller which can be used to adjust or control the level of volume on a computer
-In this demo a RGB led strip is used to indicate the level that is being controlled.
+In this demo the radar would determine the direction of a moving target and play an audio sample that was preloaded onto a memory card depending on the direction.
+
+The target would hear Hello while approaching the radar and good bye while moving away from the radar.
+
+The applications range from AI information assistants that can greet you, vending machines that can conserve electricity till a customer arrives, smart home devices, smart door bells, Digital information desks and so on.
