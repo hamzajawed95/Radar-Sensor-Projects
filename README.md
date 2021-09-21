@@ -1,9 +1,7 @@
-This demo shows the procedure to use the BGT60LTR11AIP  shield as a switch that can toggle between “ON” and “OFF” states depending on the gesture.
+**About this document**
 
-The applications range from: 
-•	contactless soap dispenser
-•	elevator buttons
-•	pedestrian street crossing button
-•	subway door opener
+**Scope and purpose**
+This project describes the methodology to make a circuit to explore different kind of applications using BGT60LTR11AIP Shield.
 
-In this demo a servo motor was attached to the Arduino which will act as an analog for motor that is placed in automatic doors.
+**Intended audience**
+This is intended for anyone interested in using Infineon’s 60GHz radar system platform with the Arduino platform and Python.
