@@ -1,2 +1,7 @@
-The demo shows using a BGT60LTR11AIP shield as a level controller which can be used to adjust or control the level of volume on a computer
-In this demo a RGB led strip is used to indicate the level that is being controlled.
+This demo shows the procedure to use the BGT60LTR11AIP  shield as a switch that can toggle between “ON” and “OFF” states depending on the gesture.
+The applications range from: 
+•	contactless soap dispenser
+•	elevator buttons
+•	pedestrian street crossing button
+•	subway door opener
+In this demo a servo motor was attached to the Arduino which will act as an analog for motor that is placed in automatic doors.
